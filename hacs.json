@@ -1,5 +1,5 @@
 {
   "name": "Github Custom",
   "render_readme": true,
-  "iot_class": "calculated"
+  "iot_class": "Cloud Polling"
 }
